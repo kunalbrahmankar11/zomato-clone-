@@ -1,0 +1,90 @@
+button
+{
+    color: rgb(230, 230, 239);
+    background-color: rgb(34, 34, 130);
+    border-radius: 20px;
+    position: relative;
+    margin-top: -20%;
+    top: 50%;
+    left: 135%;
+    font-weight: bold;
+    font-size: 15px;
+}
+.get{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(237, 229, 230);
+    position: relative;
+    top: -30%;
+    left: -70%;
+}
+
+.zomato{
+    display: flex;
+    justify-content: center;
+    position: relative;
+  
+   
+   
+ 
+}
+ul{
+    padding: auto;
+    
+}
+.list{
+   
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(239, 238, 221);
+    position: relative;
+    top: 50%;
+    left: 38%;
+    
+   
+}
+.heading{
+    color: white;
+    font-size: 30px;
+   position: relative;
+   top: 50%;
+   left: -30%;
+}
+.search{
+   
+   
+    border-style: solid blue;
+    text-align: center;
+    margin: 1cm;
+    position: relative;
+    top: 50%;
+    left: -40%;
+    
+}
+input{
+    width: 17cm;
+    height: 1cm;
+    color: rgb(115, 9, 129);
+    background-color: aliceblue;
+    border-radius: 1cm;
+
+    
+}
+#location
+{
+  
+   color: rgb(196, 93, 93);
+    padding: 10px;
+   margin: 10px;
+    
+}
+.inside{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#find{
+    color: black;
+   padding: 10px;
+}
